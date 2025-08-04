@@ -45,7 +45,7 @@ All formulas, logic structures, systems, and documentation in this repo are **fu
 ## ✅ Licensing & Contact
 
 For licensing, collaboration, or media inquiries:  
-**Email**: [coming soon]  
+**Email**: [sheikh.ahammed@eagle360ai.com
 **Platform**: [BDagentAI.com](https://bdagentai.com)
 
 ---
