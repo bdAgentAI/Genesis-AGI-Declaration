@@ -4,7 +4,7 @@
 **Inventor**: Sheikh Jubaer Ahammed  
 **Project Codename**: Tritiyo Chokh (Third Eye)  
 **Invention Date**: 2024 – 2025  
-**Declaration Date**: August 2025  
+**Declaration Date**: August 3 2025  
 **Location**: Bangladesh  
 
 ---
